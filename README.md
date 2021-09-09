@@ -1,6 +1,6 @@
 # Static Slash Command
 
-A Cloudflare Worker that serves a single Discord bot slash command through a GitHub Pages site. Worker code found in ()
+A Cloudflare Worker that serves a single Discord bot slash command through a GitHub Pages site.
 
 **This project is a meme.**
 
