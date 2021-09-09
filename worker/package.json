@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "static-slash-command",
+  "version": "1.0.0",
+  "description": "Cloudflare worker for serving slash commands over static JSON APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'",
+    "build": "webpack",
+    "build:watch": "webpack --watch"
+  },
+  "author": "nwunderly",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "tweetnacl": "^1.0.3"
+  }
+}

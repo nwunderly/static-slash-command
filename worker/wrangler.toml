@@ -1,0 +1,9 @@
+name = "static-slash-command"
+type = "webpack"
+
+account_id = "479657b241702a97ceb297ec1f9709bb"
+workers_dev = true
+route = ""
+zone_id = ""
+
+webpack_config = "webpack.config.js"
