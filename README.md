@@ -14,4 +14,4 @@ This worker handles authorization based on the url public key parameter, and as 
 
 ### Pages:
 
-`https://nwunderly.github.io/static-slash-command/command.json`
+`https://nwunderly.github.io/static-slash-command/pages/command.json`
