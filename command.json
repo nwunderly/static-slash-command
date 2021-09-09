@@ -1,3 +1,7 @@
 {
-    "type": 1
+    "type": 4,
+    "data": {
+        "content": "Hello from GitHub Pages!",
+        "flags": 64
+    }
 }
